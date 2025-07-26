@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+}
+
+.profile-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.profile-info img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.logout-link {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #7b00b2;
+}
+.logout-link:hover {
+    color: #4d007a;
+}
