@@ -78,27 +78,27 @@ Here are some screenshots to illustrate the different parts of the application:
 ### Register Page
 
 * **Purpose:** Allows new users to create an account.
-![Register Page](screenshots/register.png)
+![Register Page](register.png)
 
 ### Login Page
 
 * **Purpose:** Users can log in to access their budget tracker.
-![Login Page](screenshots/login.png)
+![Login Page](login.png)
 
 ### Overview/Dashboard
 
 * **Purpose:** allow to enter their expenses .
-![Overview Page](screenshots/overview.png)
+![Overview Page](overview.png)
 
 ### Filter Options
 
 * **Purpose:** Users can filter their expenses by month or category.
-![Filter Options](screenshots/filter.png)
+![Filter Options](filter.png)
 
 ### Charts/Graphs
 
 * **Purpose:** Visual representation of spending habits.
-![Charts Page](screenshots/filters.png)
+![Charts Page](filters.png)
 
 ---
 
